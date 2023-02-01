@@ -1,0 +1,359 @@
+Product Price,Product Name,Ram,Display,Cameras Main,Cameras Front,Proccessor,Battery,Product Company,Proccessor Company
+49900,Apple iPhone 11 64GB,4GB RAM,6.1 inch,12 MP Main,12 MP Front,A13 Bionic,4000 mAh,Apple,Apple
+121300,Apple iPhone 11 Pro 256GB,4GB RAM,5.8 inch,12 MP Main,12 MP Front,A13 Bionic,3190 mAh,Apple,Apple
+140300,Apple iPhone 11 Pro 512GB,4GB RAM,5.8 inch,12 MP Main,12 MP Front,A13 Bionic,3190 mAh,Apple,Apple
+106600,Apple iPhone 11 Pro 64GB,4GB RAM,5.8 inch,12 MP Main,12 MP Front,A13 Bionic,3190 mAh,Apple,Apple
+131900,Apple iPhone 11 Pro Max 256GB,4GB RAM,6.5 inch,12 MP Main,12 MP Front,A13 Bionic,3969 mAh,Apple,Apple
+150800,Apple iPhone 11 Pro Max 512GB,4GB RAM,6.5 inch,12 MP Main,12 MP Front,A13 Bionic,3969 mAh,Apple,Apple
+109900,Apple iPhone 11 Pro Max 64GB,4GB RAM,6.5 inch,12 MP Main,12 MP Front,A13 Bionic,3900 mAh,Apple,Apple
+106900,Apple iPhone 12 Pro 512GB ,6GB RAM,6.1 inch,12 MP Main,12 MP Front,A14 Bionic,2815 mAh,Apple,Apple
+119900,Apple iPhone 12 Pro Max ,6GB RAM,6.7 inch,12 MP Main,12 MP Front,A14 Bionic,3687 mAh,Apple,Apple
+119900,Apple iPhone 13 Pro Max,6GB RAM,6.7 inch,12 MP Main,12 MP Front,A15 Bionic,4352 mAh,Apple,Apple
+32999,Apple iPhone SE 2020 (iPhone SE 2) 3 GB 128 GB,3GB RAM,4.7 inch,12 MP Main,7 MP Front,A13 Bionic ,1821 mAh,Apple,Apple
+40990,Apple iPhone SE 2020 (iPhone SE 2) 3 GB 256 GB,3GB RAM,4.7 inch,12 MP Main,7 MP Front,A13 Bionic ,1821 mAh,Apple,Apple
+28990,Apple iPhone SE 2020 (iPhone SE 2) 3 GB 64 GB,3GB RAM,4.7 inch,12 MP Main,7 MP Front,A13 Bionic ,1821 mAh,Apple,Apple
+52900,Apple iPhone XR 128 GB,3GB RAM,6.1 inch,12 MP Main,7 MP Front,A12 Bionic,2942 mAh,Apple,Apple
+91900,Apple iPhone XR 256 GB,3GB RAM,6.1 inch,12 MP Main,7 MP Front,A12 Bionic,2942 mAh,Apple,Apple
+47900,Apple iPhone XR 64 GB,3GB RAM,6.1 inch,12 MP Main,7 MP Front,A12 Bionic,2942 mAh,Apple,Apple
+103900,Apple iPhone XS 256 GB,4GB RAM,5.8 inch,12 MP Main,7 MP Front,A12 Bionic,2942 mAh,Apple,Apple
+134900,Apple iPhone XS 512 GB,4GB RAM,5.8 inch,12 MP Main,7 MP Front,A12 Bionic,2942 mAh,Apple,Apple
+124900,Apple iPhone XS Max 256 GB,4GB RAM,6.5 inch,12 MP Main,7 MP Front,A12 Bionic,2942 mAh,Apple,Apple
+144900,Apple iPhone XS Max 512 GB,4GB RAM,6.5 inch,12 MP Main,7 MP Front,A12 Bionic,2942 mAh,Apple,Apple
+59990,iQOO 9 Pro 5G,8GB RAM,6.78 inch,50 MP Main,16 MP Front,Qualcomm Snapdragon 8 Gen 1,4700 mAh,iQOO,Qualcomm Snapdragon
+29999,iQOO Neo 6 5G,8GB RAM,6.62 inch,64 MP Main,16 MP Front,Qualcomm Snapdragon 870,4700 mAh,iQOO,Qualcomm Snapdragon
+23090,iQOO Neo 6 SE 5G,8GB RAM,6.62 inch,64 MP Main,16 MP Front,Qualcomm Snapdragon 870,4700 mAh,iQOO,Qualcomm Snapdragon
+61999,OnePlus 10 Pro,8GB RAM,6.7 inch,48 MP Main,32 MP Front,Qualcomm Snapdragon 8 Gen 1,5000 mAh,OnePlus,Qualcomm Snapdragon
+32999,OnePlus 10R,8GB RAM,6.7 inch,50 MP Main,16 MP Front,MediaTek Dimensity 8100,4500 mAh,OnePlus,MediaTek
+39999,OnePlus 10R 150W,12GB RAM,6.7 inch,50 MP Main,16 MP Front,MediaTek Dimensity 8100,4500 mAh,OnePlus,MediaTek
+49999,OnePlus 10T,8GB RAM,6.7 inch,50 MP Main,16 MP Front,Qualcomm Snapdragon 8 Plus Gen 1,4800 mAh,OnePlus,Qualcomm Snapdragon
+9999,OnePlus 3T 128GB,6GB RAM,5.5 inch,16 MP Main,16 MP Front,Snapdragon 821,3400 mAh,OnePlus,Qualcomm Snapdragon
+10499,OnePlus 5 6GB ,6GB RAM,5.5 inch,20 MP Main,16 MP Front,Qualcomm Snapdragon 835,3300 mAh,OnePlus,Qualcomm Snapdragon
+12999,OnePlus 5 8GB ,8GB RAM,5.5 inch,20 MP Main,16 MP Front,Qualcomm Snapdragon 835,3300 mAh,OnePlus,Qualcomm Snapdragon
+28999,OnePlus 5T 6GB + 64GB,6GB RAM,6.01 inch,16 MP Main,16 MP Front,Qualcomm Snapdragon 835,3300 mAh,OnePlus,Qualcomm Snapdragon
+32441,OnePlus 5T 8GB + 128GB,8GB RAM,6.01 inch,16 MP Main,16 MP Front,Qualcomm Snapdragon 835,3300 mAh,OnePlus,Qualcomm Snapdragon
+32999,OnePlus 5T Lava Red Edition,8GB RAM,6.01 inch,16 MP Main,16 MP Front,Qualcomm Snapdragon 835,3300 mAh,OnePlus,Qualcomm Snapdragon
+34185,OnePlus 5T Star Wars Edition,8GB RAM,6.01 inch,16 MP Main,16 MP Front,Qualcomm Snapdragon 835,3300 mAh,OnePlus,Qualcomm Snapdragon
+12899,OnePlus 6 6GB + 64GB,6GB RAM,6.28 inch,16 MP Main,16 MP Front,Snapdragon 845,3300 mAh,OnePlus,Qualcomm Snapdragon
+16999,OnePlus 6 8GB + 128GB,8GB RAM,6.28 inch,16 MP Main,16 MP Front,Snapdragon 845,3300 mAh,OnePlus,Qualcomm Snapdragon
+44258,OnePlus 6 8GB + 256GB,8GB RAM,6.28 inch,16 MP Main,16 MP Front,Snapdragon 845,3300 mAh,OnePlus,Qualcomm Snapdragon
+44999,OnePlus 6 Marvel Avengers Limited Edition,8GB RAM,6.28 inch,16 MP Main,16 MP Front,Snapdragon 845,3300 mAh,OnePlus,Qualcomm Snapdragon
+29999,OnePlus 6T 6GB + 128 GB,6GB RAM,6.41 inch,16 MP Main,16 MP Front,Snapdragon 845,3700 mAh,OnePlus,Qualcomm Snapdragon
+31999,OnePlus 6T 8GB + 128 GB,8GB RAM,6.41 inch,16 MP Main,16 MP Front,Snapdragon 845,3700 mAh,OnePlus,Qualcomm Snapdragon
+20799,OnePlus 6T 8GB + 256 GB,8GB RAM,6.41 inch,16 MP Main,16 MP Front,Snapdragon 845,3700 mAh,OnePlus,Qualcomm Snapdragon
+41999,OnePlus 6T McLaren Edition,10GB RAM,6.41 inch,16 MP Main,16 MP Front,Snapdragon 845,3700 mAh,OnePlus,Qualcomm Snapdragon
+30999,OnePlus 7 6GB ,6GB RAM,6.41 inch,48 MP Main,16 MP Front,Snapdragon 855,3700 mAh,OnePlus,Qualcomm Snapdragon
+36490,OnePlus 7 8GB ,8GB RAM,6.41 inch,48 MP Main,16 MP Front,Snapdragon 855,3700 mAh,OnePlus,Qualcomm Snapdragon
+57999,OnePlus 7 Pro 12GB ,12GB RAM,6.67 inch,48 MP Main,16 MP Front,Snapdragon 855,4000 mAh,OnePlus,Qualcomm Snapdragon
+52999,OnePlus 7 Pro 8GB ,8GB RAM,6.67 inch,48 MP Main,16 MP Front,Snapdragon 855,4000 mAh,OnePlus,Qualcomm Snapdragon
+37990,OnePlus 7T 8GB 128GB,8GB RAM,6.55 inch,48 MP Main,16 MP Front,Snapdragon 855+,3800 mAh,OnePlus,Qualcomm Snapdragon
+39999,OnePlus 7T 8GB 256GB,8GB RAM,6.55 inch,48 MP Main,16 MP Front,Snapdragon 855+,3800 mAh,OnePlus,Qualcomm Snapdragon
+45999,OnePlus 7T Pro,8GB RAM,6.67 inch,48 MP Main,16 MP Front,Snapdragon 855+,4085 mAh,OnePlus,Qualcomm Snapdragon
+58999,OnePlus 7T Pro McLaren Edition,12GB RAM,6.67 inch,48 MP Main,16 MP Front,Snapdragon 855+,4085 mAh,OnePlus,Qualcomm Snapdragon
+49999,OnePlus 9 Pro,8GB RAM,6.7 inch,48 MP Main,16 MP Front,Qualcomm Snapdragon 888,4500 mAh,OnePlus,Qualcomm Snapdragon
+23090,OnePlus Ace Racing Edition,8GB RAM,6.59 inch,64 MP Main,16 MP Front,MediaTek Dimensity 8100,5000 mAh,OnePlus,MediaTek
+29999,OnePlus Nord 12 GB 256 GB ,12GB RAM,6.44 inch,48 MP Main,32 MP Front,Snapdragon 765G 5G,4115 mAh,OnePlus,Qualcomm Snapdragon
+29999,OnePlus Nord 2,6GB RAM,6.43 inch,50 MP Main,32 MP Front,Dimensity 1200 ,4500 mAh,OnePlus,MediaTek
+34998,OnePlus Nord 2 256GB,12GB RAM,6.43 inch,50 MP Main,32 MP Front,Dimensity 1200 ,4500 mAh,OnePlus,MediaTek
+29999,OnePlus Nord 2 8GB ,8GB RAM,6.43 inch,50 MP Main,32 MP Front,Dimensity 1200 ,4500 mAh,OnePlus,MediaTek
+32690,OnePlus Nord 2T,8GB RAM,6.43 inch,50 MP Main,32 MP Front,MediaTek,4500 mAh,OnePlus,MediaTek
+28999,OnePlus Nord 2T 5G,8GB RAM,6.43 inch,50 MP Main,32 MP Front,MediaTek Dimensity 1300,4500 mAh,OnePlus,MediaTek
+29999,OnePlus Nord 6 GB 64 GB ,6GB RAM,6.44 inch,48 MP Main,32 MP Front,Snapdragon 765G 5G,4115 mAh,OnePlus,Qualcomm Snapdragon
+27999,OnePlus Nord 8 GB 128 GB ,8GB RAM,6.44 inch,48 MP Main,32 MP Front,Snapdragon 765G 5G,4115 mAh,OnePlus,Qualcomm Snapdragon
+24999,OnePlus Nord CE 2 5G,6GB RAM,6.43 inch,64 MP Main,16 MP Front,MediaTek Dimensity 900 ,4500 mAh,OnePlus,MediaTek
+18999,OnePlus Nord CE 2 Lite 5G,6GB RAM,6.58 inch,64 MP Main,16 MP Front,Qualcomm Snapdragon 695,5000 mAh,OnePlus,Qualcomm Snapdragon
+9990,Oppo A12 3 GB 32 GB,3GB RAM,6.22 inch,13 MP Main,5 MP Front,MediaTek P35,4230 mAh,Oppo,MediaTek
+8499,Oppo A12 4 GB 64 GB,4GB RAM,6.22 inch,13 MP Main,5 MP Front,MediaTek P35,4230 mAh,Oppo,MediaTek
+12989,Oppo A15 ,3GB RAM,6.52 inch,13 MP Main,5 MP Front,MediaTek P35,4230 mAh,Oppo,MediaTek
+11490,Oppo A15s ,4GB RAM,6.52 inch,13 MP Main,8 MP Front,MediaTek P35,4230 mAh,Oppo,MediaTek
+12990,Oppo A31 2020 4GB 64 GB,4GB RAM,6.5 inch,12 MP Main,8 MP Front,MediaTek P35,4230 mAh,Oppo,MediaTek
+14990,Oppo A5 2020 3GB ,3GB RAM,6.5 inch,12 MP Main,8 MP Front,Snapdragon 665,5000 mAh,Oppo,Qualcomm Snapdragon
+15949,Oppo A5 2020 4GB ,4GB RAM,6.5 inch,12 MP Main,8 MP Front,Snapdragon 665,5000 mAh,Oppo,Qualcomm Snapdragon
+14990,Oppo A52 6 GB ,6GB RAM,6.5 inch,12 MP Main,16 MP Front,Snapdragon 665,5000 mAh,Oppo,Qualcomm Snapdragon
+15990,Oppo A52 8 GB ,8GB RAM,6.5 inch,12 MP Main,16 MP Front,Snapdragon 665,5000 mAh,Oppo,Qualcomm Snapdragon
+13499,Oppo A53 2020 ,4GB RAM,6.5 inch,13 MP Main,16 MP Front,Snapdragon 460,5000 mAh,Oppo,Qualcomm Snapdragon
+17900,Oppo A57 5G,8GB RAM,6.56 inch,13 MP Main,8 MP Front,MediaTek Dimensity 810,5000 mAh,Oppo,MediaTek
+8847,Oppo A5S 2GB + 32GB,2GB RAM,6.2 inch,13 MP Main,8 MP Front,MediaTek P35,4230 mAh,Oppo,MediaTek
+13990,Oppo A5S 3GB + 32GB,3GB RAM,6.2 inch,13 MP Main,8 MP Front,MediaTek P35,4230 mAh,Oppo,MediaTek
+12990,Oppo A5S 4GB + 64GB,4GB RAM,6.2 inch,13 MP Main,8 MP Front,MediaTek P35,4230 mAh,Oppo,MediaTek
+20290,Oppo A72 5G ,8GB RAM,6.5 inch,16 MP Main,8 MP Front,MediaTek Dimensity 720,4040 mAh,Oppo,MediaTek
+14999,Oppo A9 2020 4GB ,4GB RAM,6.5 inch,48 MP Main,16 MP Front,Snapdragon 665,5000 mAh,Oppo,Qualcomm Snapdragon
+17899,Oppo A9 2020 8GB ,8GB RAM,6.5 inch,48 MP Main,16 MP Front,Snapdragon 665,5000 mAh,Oppo,Qualcomm Snapdragon
+23990,Oppo F17 Pro Diwali Edition ,8GB RAM,6.43 inch,48 MP Main,16 MP Front,MediaTek P95,4015 mAh,Oppo,MediaTek
+21999,Oppo F21 Pro,8GB RAM,6.43 inch,64 MP Main,32 MP Front,Qualcomm Snapdragon 680,4500 mAh,Oppo,Qualcomm Snapdragon
+25999,Oppo F21 Pro 5G,8GB RAM,6.43 inch,64 MP Main,16 MP Front,Qualcomm Snapdragon 695,4500 mAh,Oppo,Qualcomm Snapdragon
+49990,Oppo Find X5 Lite 5G,8GB RAM,6.43 inch,64 MP Main,32 MP Front,MediaTek Dimensity 900 ,4500 mAh,Oppo,MediaTek
+109890,Oppo Find X5 Pro 5G,8GB RAM,6.7 inch,50 MP Main,32 MP Front,Qualcomm Snapdragon 8 Gen 1,5000 mAh,Oppo,Qualcomm Snapdragon
+16999,Oppo K10 5G,8GB RAM,6.59 inch,64 MP Main,16 MP Front,MediaTek Dimensity 8000 ,5000 mAh,Oppo,MediaTek
+29390,Oppo K10 Pro,8GB RAM,6.62 inch,50 MP Main,16 MP Front,Qualcomm Snapdragon 888,5000 mAh,Oppo,Qualcomm Snapdragon
+24500,Oppo K3 6GB ,6GB RAM,6.5 inch,16 MP Main,16 MP Front,Snapdragon 710,3765 mAh,Oppo,Qualcomm Snapdragon
+30994,Oppo K3 8GB ,8GB RAM,6.5 inch,16 MP Main,16 MP Front,Snapdragon 710,3765 mAh,Oppo,Qualcomm Snapdragon
+41990,Oppo Reno 10x Zoom Edition,6GB RAM,6.6 inch,48 MP Main,16 MP Front,Snapdragon 855,4065 mAh,Oppo,Qualcomm Snapdragon
+55990,Oppo Reno 10x Zoom Edition 8GB ,8GB RAM,6.6 inch,48 MP Main,16 MP Front,Snapdragon 855,4065 mAh,Oppo,Qualcomm Snapdragon
+39990,Oppo Reno 2,8GB RAM,6.55 inch,48 MP Main,16 MP Front,Snapdragon 730,5000 mAh,Oppo,Qualcomm Snapdragon
+28990,Oppo Reno 2F,8GB RAM,6.5 inch,48 MP Main,16 MP Front,MediaTek P70, 4000 mAh,Oppo,MediaTek
+27549,Oppo Reno 2Z,8GB RAM,6.53 inch,48 MP Main,16 MP Front,MediaTek P90,4000 mAh,Oppo,MediaTek
+39999,Oppo Reno 4 Pro 5G ,8GB RAM,6.55 inch,48 MP Main,32 MP Front,Snapdragon 765G 5G,4000 mAh,Oppo,Qualcomm Snapdragon
+32990,Oppo Reno3 Pro 8 GB 128 GB,8GB RAM,6.4 inch,64 MP Main,44 MP Front,MediaTek P95,4025 mAh,Oppo,MediaTek
+27485,Oppo Reno6 5G,8GB RAM,6.43 inch,64 MP Main,32 MP Front,MediaTek Dimensity 900 ,4300 mAh,Oppo,MediaTek
+26999,Oppo Reno7 4G,8GB RAM,6.43 inch,64 MP Main,32 MP Front,Qualcomm Snapdragon 680,4500 mAh,Oppo,Qualcomm Snapdragon
+19990,Oppo Reno7 Lite,8GB RAM,6.43 inch,64 MP Main,16 MP Front,Qualcomm Snapdragon 695,4500 mAh,Oppo,Qualcomm Snapdragon
+28999,Oppo Reno7 Pro,12GB RAM,6.55 inch,50 MP Main,32 MP Front,Dimensity 1200 ,4500 mAh,Oppo,MediaTek
+29999,Oppo Reno8 5G,8GB RAM,6.4 inch,50 MP Main,32 MP Front,MediaTek Dimensity 1300,4500 mAh,Oppo,MediaTek
+34890,Oppo Reno8 Pro,8GB RAM,6.62 inch,50 MP Main,32 MP Front,Qualcomm Snapdragon,4500 mAh,Oppo,Qualcomm Snapdragon
+44979,Oppo Reno8 Pro 5G,12GB RAM,6.7 inch,50 MP Main,32 MP Front,MediaTek Dimensity 8100,4500 mAh,Oppo,MediaTek
+8499,Realme 3 3GB + 32GB,3GB RAM,6.22 inch,13 MP Main,13 MP Front,MediaTek MediaTek P70,4230 mAh,Realme,MediaTek
+13999,Realme 3 Pro 4GB + 64GB,4GB RAM,6.3 inch,16 MP Main,25 MP Front,Qualcomm Snapdragon 710,4045 mAh,Realme,Qualcomm Snapdragon
+12489,Realme 3 Pro 6GB + 128GB,6GB RAM,6.3 inch,16 MP Main,25 MP Front,Qualcomm Snapdragon 710,4045 mAh,Realme,Qualcomm Snapdragon
+17999,Realme 3 Pro 6GB + 64GB,6GB RAM,6.3 inch,16 MP Main,25 MP Front,Qualcomm Snapdragon 710,4045 mAh,Realme,Qualcomm Snapdragon
+8499,Realme 3i 3GB ,3GB RAM,6.2 inch,13 MP Main,13 MP Front,MediaTek P60,4230 mAh,Realme,MediaTek
+10499,Realme 3i 4GB ,4GB RAM,6.2 inch,13 MP Main,13 MP Front,MediaTek P60,4230 mAh,Realme,MediaTek
+10999,Realme 5,4GB RAM,6.5 inch,16 MP Main,24 MP Front,Snapdragon 665,5000 mAh,Realme,Qualcomm Snapdragon
+12999,Realme 5 Pro 4GB 64GB,4GB RAM,6.3 inch,48 MP Main,16 MP Front,Snapdragon 712,4035 mAh,Realme,Qualcomm Snapdragon
+15999,Realme 5 Pro 6GB 64GB,6GB RAM,6.3 inch,48 MP Main,16 MP Front,Snapdragon 712,4035 mAh,Realme,Qualcomm Snapdragon
+17999,Realme 5 Pro 8GB 128GB,8GB RAM,6.3 inch,48 MP Main,16 MP Front,Snapdragon 712,4035 mAh,Realme,Qualcomm Snapdragon
+11999,Realme 5i 4 GB 128 GB,4GB RAM,6.5 inch,12 MP Main,8 MP Front,Snapdragon 665,5000 mAh,Realme,Qualcomm Snapdragon
+10999,Realme 5i 4 GB 64 GB,4GB RAM,6.5 inch,12 MP Main,8 MP Front,Snapdragon 665,5000 mAh,Realme,Qualcomm Snapdragon
+12999,Realme 5s 4GB 128GB,4GB RAM,6.51 inch,48 MP Main,13 MP Front,Snapdragon 665,5000 mAh,Realme,Qualcomm Snapdragon
+11999,Realme 5s 4GB 64GB,4GB RAM,6.51 inch,48 MP Main,13 MP Front,Snapdragon 665,5000 mAh,Realme,Qualcomm Snapdragon
+12890,Realme 6 4 GB 64 GB,4GB RAM,6.5 inch,64 MP Main,16 MP Front,MediaTek G90T,4300 mAh,Realme,MediaTek
+15999,Realme 6 6 GB 128 GB,6GB RAM,6.5 inch,64 MP Main,16 MP Front,MediaTek G90T,4300 mAh,Realme,MediaTek
+16899,Realme 6 8 GB 128 GB,8GB RAM,6.5 inch,64 MP Main,16 MP Front,MediaTek G90T,4300 mAh,Realme,MediaTek
+17999,Realme 6 Pro 6 GB ,6GB RAM,6.6 inch,64 MP Main,16 MP Front,Snapdragon 720G,4300 mAh,Realme,Qualcomm Snapdragon
+19999,Realme 6 Pro 6 GB 128 GB,6GB RAM,6.6 inch,64 MP Main,16 MP Front,Snapdragon 720G,4300 mAh,Realme,Qualcomm Snapdragon
+19999,Realme 6 Pro 8 GB 128 GB,8GB RAM,6.6 inch,64 MP Main,16 MP Front,Snapdragon 720G,4300 mAh,Realme,Qualcomm Snapdragon
+17999,Realme 7 ,6GB RAM,6.5 inch,64 MP Main,16 MP Front,MediaTek G95,5000 mAh,Realme,MediaTek
+20999,Realme 7 128GB,8GB RAM,6.5 inch,64 MP Main,16 MP Front,MediaTek G95,5000 mAh,Realme,MediaTek
+13999,Realme 7i ,4GB RAM,6.5 inch,64 MP Main,16 MP Front,Snapdragon 665,5000 mAh,Realme,Qualcomm Snapdragon
+13780,Realme 8i ,4GB RAM,6.6 inch,50 MP Main,16 MP Front,MediaTek MediaTek G96,5000 mAh,Realme,MediaTek
+15999,Realme 8i 128GB ,6GB RAM,6.6 inch,50 MP Main,16 MP Front,MediaTek MediaTek G96,5000 mAh,Realme,MediaTek
+16319,Realme 8s 5G,6GB RAM,6.5 inch,64 MP Main,16 MP Front,MediaTek Dimensity 810,5000 mAh,Realme,MediaTek
+19999,Realme 8s 5G 8GB ,8GB RAM,6.5 inch,64 MP Main,16 MP Front,MediaTek Dimensity 810,5000 mAh,Realme,MediaTek
+16900,Realme 9,6GB RAM,6.4 inch,108 MP Main,16 MP Front,Qualcomm Snapdragon 680,5000 mAh,Realme,Qualcomm Snapdragon
+19879,Realme 9 Pro,6GB RAM,6.6 inch,64 MP Main,16 MP Front,Qualcomm Snapdragon 695,5000 mAh,Realme,Qualcomm Snapdragon
+25990,Realme 9 Pro Plus,6GB RAM,6.4 inch,50 MP Main,16 MP Front,MediaTek Dimensity 920,4500 mAh,Realme,MediaTek
+13499,Realme 9i,4GB RAM,6.6 inch,50 MP Main,16 MP Front,Qualcomm Snapdragon 680,5000 mAh,Realme,Qualcomm Snapdragon
+8999,Realme C1 (2019) 2GB + 32GB,2GB RAM,6.2 inch,13 MP Main,5 MP Front,Snapdragon 660,4230 mAh,Realme,Qualcomm Snapdragon
+9680,Realme C12 ,3GB RAM,6.52 inch,13 MP Main,5 MP Front,MediaTek G35 ,6000 mAh,Realme,MediaTek
+12999,Realme C15 Qualcomm Edition 64GB ,4GB RAM,6.5 inch,13 MP Main,8 MP Front,Snapdragon 460,6000 mAh,Realme,Qualcomm Snapdragon
+6999,Realme C2 2GB + 16GB,2GB RAM,6.1 inch,13 MP Main,5 MP Front,MediaTek MediaTek P22 ,4000 mAh,Realme,MediaTek
+6949,Realme C2 2GB + 32GB,2GB RAM,6.1 inch,13 MP Main,5 MP Front,MediaTek MediaTek P22 ,4000 mAh,Realme,MediaTek
+7549,Realme C2 3GB + 32GB,3GB RAM,6.1 inch,13 MP Main,5 MP Front,MediaTek MediaTek P22 ,4000 mAh,Realme,MediaTek
+9999,Realme C3 3 GB 32 GB,3GB RAM,6.5 inch,12 MP Main,5 MP Front,MediaTek G70,5000 mAh,Realme,MediaTek
+8998,Realme C3 4 GB 64 GB,4GB RAM,6.5 inch,12 MP Main,5 MP Front,MediaTek G70,5000 mAh,Realme,MediaTek
+11999,Realme C35,4GB RAM,6.6 inch,50 MP Main,8 MP Front,Unisoc T616,5000 mAh,Realme,Unisoc
+55899,Realme GT 2 Pro 5G,8GB RAM,6.7 inch,50 MP Main,32 MP Front,Qualcomm Snapdragon 8 Gen 1,5000 mAh,Realme,Qualcomm Snapdragon
+37999,Realme GT 5G,8GB RAM,6.43 inch,64 MP Main,16 MP Front,Qualcomm Snapdragon 888,4500 mAh,Realme,Qualcomm Snapdragon
+41999,Realme GT 5G 256GB,12GB RAM,6.43 inch,64 MP Main,16 MP Front,Qualcomm Snapdragon 888,4500 mAh,Realme,Qualcomm Snapdragon
+32990,Realme GT Neo 3 5G,6GB RAM,6.7 inch,50 MP Main,16 MP Front,MediaTek Dimensity 8100,5000 mAh,Realme,MediaTek
+39995,Realme GT Neo 3 5G 150W,12GB RAM,6.7 inch,50 MP Main,16 MP Front,MediaTek Dimensity 8100,4500 mAh,Realme,MediaTek
+13499,Realme Narzo 30,4GB RAM,6.5 inch,48 MP Main,16 MP Front,MediaTek MediaTek G95,5000 mAh,Realme,MediaTek
+15499,Realme Narzo 30 128GB,6GB RAM,6.5 inch,48 MP Main,16 MP Front,MediaTek MediaTek G95,5000 mAh,Realme,MediaTek
+14890,Realme Q5i,4GB RAM,6.58 inch,13 MP Main,8 MP Front,MediaTek Dimensity 810 ,5000 mAh,Realme,MediaTek
+11550,Realme U1 3GB + 64GB,3GB RAM,6.3 inch,13 MP Main,25 MP Front,MediaTek MediaTek P70,3500 mAh,Realme,MediaTek
+17999,Realme X 4GB,4GB RAM,6.53 inch,48 MP Main,16 MP Front,Snapdragon 710,3765 mAh,Realme,Qualcomm Snapdragon
+20999,Realme X 8GB,8GB RAM,6.53 inch,48 MP Main,16 MP Front,Snapdragon 710,3765 mAh,Realme,Qualcomm Snapdragon
+35999,Realme X2 Pro 12GB 256GB,12GB RAM,6.5 inch,64 MP Main,16 MP Front,Snapdragon 855+,4000 mAh,Realme,Qualcomm Snapdragon
+31999,Realme X2 Pro 8GB 128GB,8GB RAM,6.5 inch,64 MP Main,16 MP Front,Snapdragon 855+,4000 mAh,Realme,Qualcomm Snapdragon
+26999,Realme X3 6 GB ,6GB RAM,6.6 inch,64 MP Main,16 MP Front,Snapdragon 855+,4200 mAh,Realme,Qualcomm Snapdragon
+23990,Realme X3 8 GB ,8GB RAM,6.6 inch,64 MP Main,16 MP Front,Snapdragon 855+,4200 mAh,Realme,Qualcomm Snapdragon
+33049,Realme X3 SuperZoom Edition 12 GB 256 GB,12GB RAM,6.6 inch,64 MP Main,32 MP Front,Qualcomm Snapdragon 855,4200 mAh,Realme,Qualcomm Snapdragon
+29999,Realme X3 SuperZoom Edition 8 GB 128 GB,8GB RAM,6.6 inch,64 MP Main,32 MP Front,Qualcomm Snapdragon 855,4200 mAh,Realme,Qualcomm Snapdragon
+16999,Realme XT 4GB 64GB,4GB RAM,6.4 inch,64 MP Main,16 MP Front,Snapdragon 712,4000 mAh,Realme,Qualcomm Snapdragon
+17999,Realme XT 6GB 64GB,6GB RAM,6.4 inch,64 MP Main,16 MP Front,Snapdragon 712,4000 mAh,Realme,Qualcomm Snapdragon
+19999,Realme XT 8GB 128GB,8GB RAM,6.4 inch,64 MP Main,16 MP Front,Snapdragon 712,4000 mAh,Realme,Qualcomm Snapdragon
+8999,Samsung Galaxy A10s,2GB RAM,6.2 inch,13 MP Main,8 MP Front,MediaTek P22 ,4000 mAh,Samsung,MediaTek
+18790,Samsung Galaxy A13,4GB RAM,6.5 inch,50 MP Main,5 MP Front,MediaTek Dimensity 700,5000 mAh,Samsung,MediaTek
+5900,Samsung Galaxy A2 Core,1GB RAM,5 inch,5 MP Main,5 MP Front,Samsung Exynos 7870,2600 mAh,Samsung,Samsung Exynos
+12900,Samsung Galaxy A20,3GB RAM,6.4 inch,13 MP Main,8 MP Front,Samsung Samsung Exynos 7 Octa,4000 mAh,Samsung,Samsung Exynos
+12900,Samsung Galaxy A20s 3GB 32GB,3GB RAM,6.5 inch,13 MP Main,8 MP Front,Snapdragon 450,4000 mAh,Samsung,Qualcomm Snapdragon
+14900,Samsung Galaxy A20s 4GB 64GB,4GB RAM,6.5 inch,13 MP Main,8 MP Front,Snapdragon 450,4000 mAh,Samsung,Qualcomm Snapdragon
+14060,Samsung Galaxy A21s 4 GB ,4GB RAM,6.5 inch,48 MP Main,13 MP Front,Samsung Exynos 850,5000 mAh,Samsung,Samsung Exynos
+19999,Samsung Galaxy A21s 6 GB ,4GB RAM,6.5 inch,48 MP Main,13 MP Front,Samsung Exynos 850,5000 mAh,Samsung,Samsung Exynos
+18900,Samsung Galaxy A30s,4GB RAM,6.4 inch,28 MP Main,16 MP Front,Samsung Exynos 7904,4000 mAh,Samsung,Samsung Exynos
+20999,Samsung Galaxy A50s,4GB RAM,6.4 inch,48 MP Main,32 MP Front,Samsung Exynos 9611,4000 mAh,Samsung,Samsung Exynos
+21099,Samsung Galaxy A50s 6GB,6GB RAM,6.4 inch,48 MP Main,32 MP Front,Samsung Exynos 9611,4000 mAh,Samsung,Samsung Exynos
+34499,Samsung Galaxy A53 5G,6GB RAM,6.5 inch,64 MP Main,32 MP Front,Samsung Samsung Exynos 1280,5000 mAh,Samsung,Samsung Exynos
+30900,Samsung Galaxy A70,6GB RAM,6.7 inch,32 MP Main,32 MP Front,Qualcomm Snapdragon 675,4500 mAh,Samsung,Qualcomm Snapdragon
+32000,Samsung Galaxy A70S 6GB ,6GB RAM,6.7 inch,64 MP Main,32 MP Front,Snapdragon 675,4500 mAh,Samsung,Qualcomm Snapdragon
+30500,Samsung Galaxy A70S 8GB ,8GB RAM,6.7 inch,64 MP Main,32 MP Front,Snapdragon 675,4500 mAh,Samsung,Qualcomm Snapdragon
+41999,Samsung Galaxy A73 5G,8GB RAM,6.7 inch,108 MP Main,32 MP Front,Qualcomm Snapdragon 778G,5000 mAh,Samsung,Qualcomm Snapdragon
+52000,Samsung Galaxy A80,8GB RAM,6.7 inch,48 MP Main,48 MP Front,Snapdragon 730G,3700 mAh,Samsung,Qualcomm Snapdragon
+11499,Samsung Galaxy F22,4GB RAM,6.4 inch,48 MP Main,13 MP Front,MediaTek MediaTek G80,6000 mAh,Samsung,MediaTek
+13499,Samsung Galaxy F22 128GB,6GB RAM,6.4 inch,48 MP Main,13 MP Front,MediaTek MediaTek G80,6000 mAh,Samsung,MediaTek
+15999,Samsung Galaxy F41 ,6GB RAM,6.4 inch,64 MP Main,32 MP Front,Samsung Exynos 9611,6000 mAh,Samsung,Samsung Exynos
+24000,Samsung Galaxy F62,6GB RAM,6.7 inch,64 MP Main,32 MP Front,Samsung Samsung Exynos 9 Octa 9825,7000 mAh,Samsung,Samsung Exynos
+29999,Samsung Galaxy F62 8GB ,8GB RAM,6.7 inch,64 MP Main,32 MP Front,Samsung Samsung Exynos 9 Octa 9825,7000 mAh,Samsung,Samsung Exynos
+5499,Samsung Galaxy M01 Core 1 GB 16 GB,1GB RAM,5.3 inch,8 MP Main,5 MP Front,MediaTek MT6739,3000 mAh,Samsung,MediaTek
+6945,Samsung Galaxy M01 Core 2 GB 32 GB,2GB RAM,5.3 inch,8 MP Main,5 MP Front,MediaTek MT6739,3000 mAh,Samsung,MediaTek
+9644,Samsung Galaxy M10s,3GB RAM,6.4 inch,13 MP Main,8 MP Front,Samsung Exynos 7884B,4000 mAh,Samsung,Samsung Exynos
+9890,Samsung Galaxy M11 3 GB 32 GB,3GB RAM,6.4 inch,13 MP Main,8 MP Front,Snapdragon 450,5000 mAh,Samsung,Qualcomm Snapdragon
+10890,Samsung Galaxy M11 4 GB 64 GB,3GB RAM,6.4 inch,13 MP Main,8 MP Front,Snapdragon 450,5000 mAh,Samsung,Qualcomm Snapdragon
+10999,Samsung Galaxy M13,4GB RAM,6.6 inch,50 MP Main,8 MP Front,Samsung Samsung Exynos 850,5000 mAh,Samsung,Samsung Exynos
+12699,Samsung Galaxy M21 4 GB 128 GB,4GB RAM,6.4 inch,48 MP Main,20 MP Front,Samsung Exynos 9611,6000 mAh,Samsung,Samsung Exynos
+12499,Samsung Galaxy M21 4 GB 64 GB,4GB RAM,6.4 inch,48 MP Main,20 MP Front,Samsung Exynos 9611,6000 mAh,Samsung,Samsung Exynos
+21999,Samsung Galaxy M23 5G,4GB RAM,6.6 inch,50 MP Main,8 MP Front,Qualcomm Snapdragon 750G,5000 mAh,Samsung,Qualcomm Snapdragon
+10996,Samsung Galaxy M30 3GB + 32GB,3GB RAM,6.4 inch,13 MP Main,16 MP Front,Samsung Samsung Exynos 7904,5000 mAh,Samsung,Samsung Exynos
+14990,Samsung Galaxy M30s 4GB 64GB,4GB RAM,6.4 inch,48 MP Main,16 MP Front,Samsung Exynos 9611,6000 mAh,Samsung,Samsung Exynos
+17998,Samsung Galaxy M30s 6GB 128GB,6GB RAM,6.4 inch,48 MP Main,16 MP Front,Samsung Exynos 9611,6000 mAh,Samsung,Samsung Exynos
+15999,Samsung Galaxy M31 6 GB 128 GB,6GB RAM,6.4 inch,64 MP Main,32 MP Front,Samsung Exynos 9611,6000 mAh,Samsung,Samsung Exynos
+18499,Samsung Galaxy M31 6 GB 64 GB,6GB RAM,6.4 inch,64 MP Main,32 MP Front,Samsung Exynos 9611,6000 mAh,Samsung,Samsung Exynos
+19499,Samsung Galaxy M31s 6 GB 128 GB,6GB RAM,6.5 inch,64 MP Main,32 MP Front,Samsung Exynos 9611,6000 mAh,Samsung,Samsung Exynos
+19499,Samsung Galaxy M31s 8 GB 128GB,8GB RAM,6.5 inch,64 MP Main,32 MP Front,Samsung Exynos 9611,6000 mAh,Samsung,Samsung Exynos
+20499,Samsung Galaxy M33 5G,6GB RAM,6.6 inch,50 MP Main,8 MP Front,Samsung Samsung Exynos 1280,6000 mAh,Samsung,Samsung Exynos
+14995,Samsung Galaxy M40,6GB RAM,6.3 inch,32 MP Main,16 MP Front,Snapdragon 675,3500 mAh,Samsung,Qualcomm Snapdragon
+19999,Samsung Galaxy M51 6 GB ,6GB RAM,6.7 inch,64 MP Main,32 MP Front,Snapdragon 730,7000 mAh,Samsung,Qualcomm Snapdragon
+21999,Samsung Galaxy M51 8 GB ,6GB RAM,6.7 inch,64 MP Main,32 MP Front,Snapdragon 730,7000 mAh,Samsung,Qualcomm Snapdragon
+26999,Samsung Galaxy M52 5g,6GB RAM,6.7 inch,64 MP Main,32 MP Front,Qualcomm Snapdragon 778G,5000 mAh,Samsung,Qualcomm Snapdragon
+28999,Samsung Galaxy M52 5G 8GB ,8GB RAM,6.7 inch,64 MP Main,32 MP Front,Qualcomm Snapdragon 778G,5000 mAh,Samsung,Qualcomm Snapdragon
+28999,Samsung Galaxy M53 5G,6GB RAM,6.7 inch,108 MP Main,32 MP Front,MediaTek Dimensity 900,5000 mAh,Samsung,MediaTek
+75000,Samsung Galaxy Note 10 6GB ,6GB RAM,6.3 inch,12 MP Main,10 MP Front,Samsung Exynos 9825,3500 mAh,Samsung,Samsung Exynos
+85000,Samsung Galaxy Note 10 8GB ,8GB RAM,6.3 inch,12 MP Main,10 MP Front,Samsung Exynos 9825,3500 mAh,Samsung,Samsung Exynos
+39299,Samsung Galaxy Note 10 Lite 6 GB 128GB ,6GB RAM,6.7 inch,12 MP Main,32 MP Front,Samsung Exynos 9810,4500 mAh,Samsung,Samsung Exynos
+45000,Samsung Galaxy Note 10 Lite 8 GB 128GB ,8GB RAM,6.7 inch,12 MP Main,32 MP Front,Samsung Exynos 9810,4500 mAh,Samsung,Samsung Exynos
+85000,Samsung Galaxy Note 10 Plus 256GB,12GB RAM,6.8 inch,12 MP Main,10 MP Front,Samsung Exynos 9825,4300 mAh,Samsung,Samsung Exynos
+90000,Samsung Galaxy Note 10 Plus 512GB,12GB RAM,6.8 inch,12 MP Main,10 MP Front,Samsung Exynos 9825,4300 mAh,Samsung,Samsung Exynos
+104999,Samsung Galaxy Note 20 Ultra 5G,12GB RAM,6.9 inch,108 MP Main,10 MP Front,Snapdragon 865 5G+,4500 mAh,Samsung,Qualcomm Snapdragon
+39999,Samsung Galaxy S10 128 GB,8GB RAM,6.1 inch,12 MP Main,10 MP Front,Samsung Samsung Exynos 9820,3400 mAh,Samsung,Samsung Exynos
+49999,Samsung Galaxy S20 FE ,8GB RAM,6.5 inch,12 MP Main,32 MP Front,Snapdragon 865 5G+,4500 mAh,Samsung,Qualcomm Snapdragon
+65999,Samsung Galaxy S22 Plus,8GB RAM,6.6 inch,50 MP Main,10 MP Front,Qualcomm Snapdragon 8 Gen 1,4500 mAh,Samsung,Qualcomm Snapdragon
+106999,Samsung Galaxy S22 Ultra,12GB RAM,6.8 inch,108 MP Main,40 MP Front,Qualcomm Snapdragon 8 Gen 1,5000 mAh,Samsung,Qualcomm Snapdragon
+49999,Samsung Galaxy Z Flip 3,8GB RAM,6.7 inch,12 MP Main,10 MP Front,Qualcomm Snapdragon 888,3300 mAh,Samsung,Qualcomm Snapdragon
+82999,Samsung Galaxy Z Flip 4 5G,8GB RAM,6.7 inch,12 MP Main,10 MP Front,Qualcomm Snapdragon 8 Plus Gen 1,3700 mAh,Samsung,Qualcomm Snapdragon
+108990,Samsung Galaxy Z Flip 5G,8GB RAM,6.7 inch,12 MP Main,10 MP Front,Qualcomm Snapdragon 865 Plus,3300 mAh,Samsung,Qualcomm Snapdragon
+49999,Samsung Galaxy Z Fold 3,12GB RAM,7.6 inch,12 MP Main,10 MP Front,Qualcomm Snapdragon 888,4400 mAh,Samsung,Qualcomm Snapdragon
+43499,Vivo iQOO 3 12 GB 256 GB,12GB RAM,6.44 inch,48 MP Main,16 MP Front,Snapdragon 865,4440 mAh,Vivo,Qualcomm Snapdragon
+37990,Vivo iQOO 3 8 GB 128 GB,8GB RAM,6.44 inch,48 MP Main,16 MP Front,Snapdragon 865,4440 mAh,Vivo,Qualcomm Snapdragon
+40990,Vivo iQOO 3 8 GB 256 GB,8GB RAM,6.44 inch,48 MP Main,16 MP Front,Snapdragon 865,4440 mAh,Vivo,Qualcomm Snapdragon
+19990,Vivo S1,6GB RAM,6.38 inch,16 MP Main,32 MP Front,MediaTek P65,4500 mAh,Vivo,MediaTek
+23390,Vivo S15e,8GB RAM,6.44 inch,50 MP Main,16 MP Front,Samsung Samsung Exynos 1080,4700 mAh,Vivo,Samsung Exynos
+14499,Vivo T1 44W,4GB RAM,6.44 inch,50 MP Main,16 MP Front,Qualcomm Snapdragon 680,5000 mAh,Vivo,Qualcomm Snapdragon
+23999,Vivo T1 Pro 5G,6GB RAM,6.44 inch,64 MP Main,16 MP Front,Qualcomm Snapdragon 778G,4700 mAh,Vivo,Qualcomm Snapdragon
+11990,Vivo T1x 4G,4GB RAM,6.58 inch,50 MP Main,8 MP Front,Qualcomm Snapdragon 680,5000 mAh,Vivo,Qualcomm Snapdragon
+10990,Vivo U10 3GB ,3GB RAM,6.35 inch,13 MP Main,8 MP Front,Snapdragon 665,5000 mAh,Vivo,Qualcomm Snapdragon
+13990,Vivo U10 4GB ,4GB RAM,6.35 inch,13 MP Main,8 MP Front,Snapdragon 665,5000 mAh,Vivo,Qualcomm Snapdragon
+19999,Vivo V11,6GB RAM,6.3 inch,16 MP Main,25 MP Front,Snapdragon 660,3315 mAh,Vivo,Qualcomm Snapdragon
+24999,Vivo V11 Pro,6GB RAM,6.41 inch,12 MP Main,25 MP Front,Snapdragon 660,3400 mAh,Vivo,Qualcomm Snapdragon
+26990,Vivo V15,6GB RAM,6.53 inch,12 MP Main,32 MP Front,MediaTek MediaTek P70,4000 mAh,Vivo,MediaTek
+23999,Vivo V15 Pro 6GB ,6GB RAM,6.39 inch,48 MP Main,32 MP Front,Snapdragon 675,3700 mAh,Vivo,Qualcomm Snapdragon
+34990,Vivo V15 Pro 8GB ,8GB RAM,6.39 inch,48 MP Main,32 MP Front,Snapdragon 675,3700 mAh,Vivo,Qualcomm Snapdragon
+32990,Vivo V17 Pro,8GB RAM,6.44 inch,48 MP Main,32 MP Front,Snapdragon 675,4100 mAh,Vivo,Qualcomm Snapdragon
+26990,Vivo V19 8 GB 128 GB,8GB RAM,6.44 inch,48 MP Main,32 MP Front,Snapdragon 712,4500 mAh,Vivo,Qualcomm Snapdragon
+27990,Vivo V19 8 GB 256GB,8GB RAM,6.44 inch,48 MP Main,32 MP Front,Snapdragon 712,4500 mAh,Vivo,Qualcomm Snapdragon
+24990,Vivo V20 2021 ,8GB RAM,6.44 inch,64 MP Main,44 MP Front,Snapdragon 730,4000 mAh,Vivo,Qualcomm Snapdragon
+24990,Vivo V20 SE ,8GB RAM,6.44 inch,48 MP Main,32 MP Front,Snapdragon 665,4100 mAh,Vivo,Qualcomm Snapdragon
+29990,Vivo V23 5G,8GB RAM,6.44 inch,64 MP Main,50 MP Front,MediaTek Dimensity 920,4200 mAh,Vivo,MediaTek
+18400,Vivo V9 Pro,6GB RAM,6.3 inch,13 MP Main,16 MP Front,Qualcomm Snapdragon 660,3260 mAh,Vivo,Qualcomm Snapdragon
+17990,Vivo V9 Pro 4GB ,4GB RAM,6.3 inch,13 MP Main,16 MP Front,Qualcomm Snapdragon 660,3260 mAh,Vivo,Qualcomm Snapdragon
+107190,Vivo X Fold 5G,12GB RAM,8.03 inch,50 MP Main,16 MP Front,Qualcomm Snapdragon 8 Gen 1,4600 mAh,Vivo,Qualcomm Snapdragon
+39990,Vivo X50 8 GB 128 GB,8GB RAM,6.56 inch,48 MP Main,32 MP Front,Snapdragon 730,4200 mAh,Vivo,Qualcomm Snapdragon
+44990,Vivo X50 8 GB 256 GB,8GB RAM,6.56 inch,48 MP Main,32 MP Front,Snapdragon 730,4200 mAh,Vivo,Qualcomm Snapdragon
+79990,Vivo X70 Pro Plus,12GB RAM,6.78 inch,50 MP Main,32 MP Front,Qualcomm Snapdragon 888 Plus,4500 mAh,Vivo,Qualcomm Snapdragon
+43290,Vivo X80 5G,8GB RAM,6.78 inch,50 MP Main,32 MP Front,MediaTek Dimensity 9000 ,4500 mAh,Vivo,MediaTek
+64190,Vivo X80 Pro 5G,8GB RAM,6.78 inch,50 MP Main,32 MP Front,Qualcomm Snapdragon 8 Gen 1,4700 mAh,Vivo,Qualcomm Snapdragon
+82990,Vivo X80 Pro Plus 5G,8GB RAM,6.78 inch,50 MP Main,44 MP Front,Qualcomm Snapdragon 8 Plus Gen 1,4700 mAh,Vivo,Qualcomm Snapdragon
+13990,Vivo Y12 3GB ,3GB RAM,6.35 inch,13 MP Main,8 MP Front,MediaTek P22,5000 mAh,Vivo,MediaTek
+14990,Vivo Y12 4GB ,4GB RAM,6.35 inch,13 MP Main,8 MP Front,MediaTek P22,5000 mAh,Vivo,MediaTek
+15990,Vivo Y19,4GB RAM,6.53 inch,16 MP Main,16 MP Front,MediaTek G85,5000 mAh,Vivo,MediaTek
+14500,Vivo Y20 6GB ,6GB RAM,6.51 inch,13 MP Main,8 MP Front,Snapdragon 460,5000 mAh,Vivo,Qualcomm Snapdragon
+11400,Vivo Y20A ,3GB RAM,6.51 inch,13 MP Main,8 MP Front,Snapdragon 439,5000 mAh,Vivo,Qualcomm Snapdragon
+13490,Vivo Y21 2021,4GB RAM,6.51 inch,13 MP Main,8 MP Front,MediaTek MediaTek P35,5000 mAh,Vivo,MediaTek
+19490,Vivo Y21 2021 128GB,4GB RAM,6.51 inch,13 MP Main,8 MP Front,MediaTek MediaTek P35,5000 mAh,Vivo,MediaTek
+15499,Vivo Y33s 5G,4GB RAM,6.58 inch,13 MP Main,8 MP Front,MediaTek Dimensity 700,5000 mAh,Vivo,MediaTek
+18990,Vivo Y51 2020 ,8GB RAM,6.58 inch,48 MP Main,16 MP Front,Snapdragon 665,5000 mAh,Vivo,Qualcomm Snapdragon
+10990,Vivo Y81i,3GB RAM,6.22 inch,13 MP Main,5 MP Front,Qualcomm Snapdragon 675,3260 mAh,Vivo,Qualcomm Snapdragon
+16990,Vivo Y83 Pro,4GB RAM,6.22 inch,13 MP Main,8 MP Front,MediaTek P22,3260 mAh,Vivo,MediaTek
+7990,Vivo Y90,2GB RAM,6.22 inch,8 MP Main,5 MP Front,MediaTek A22,4030 mAh,Vivo,MediaTek
+8990,Vivo Y91,2GB RAM,6.22 inch,13 MP Main,8 MP Front,Snapdragon 439,4030 mAh,Vivo,Qualcomm Snapdragon
+10990,Vivo Y91 3GB ,3GB RAM,6.22 inch,13 MP Main,8 MP Front,Snapdragon 439,4030 mAh,Vivo,Qualcomm Snapdragon
+9000,Vivo Y91i 16GB,2GB RAM,6.22 inch,13 MP Main,8 MP Front,MediaTek P22,4030 mAh,Vivo,MediaTek
+6934,Vivo Y91i 32GB,2GB RAM,6.22 inch,13 MP Main,8 MP Front,MediaTek P22,4030 mAh,Vivo,MediaTek
+13000,Vivo Y93 3GB + 64GB,3GB RAM,6.2 inch,13 MP Main,8 MP Front,Snapdragon 439,4030 mAh,Vivo,Qualcomm Snapdragon
+18000,Vivo Y93 4GB + 32GB,4GB RAM,6.2 inch,13 MP Main,8 MP Front,Snapdragon 439,4030 mAh,Vivo,Qualcomm Snapdragon
+15999,Vivo Y93s ,4GB RAM,6.2 inch,13 MP Main,8 MP Front,Snapdragon 675,4030 mAh,Vivo,Qualcomm Snapdragon
+15000,Vivo Z1,4GB RAM,6.22 inch,13 MP Main,20 MP Front,Snapdragon 660,4030 mAh,Vivo,Qualcomm Snapdragon
+15859,Vivo Z1 Pro 128GB,4GB RAM,6.26 inch,13 MP Main,12 MP Front,Snapdragon 712,3260 mAh,Vivo,Qualcomm Snapdragon
+20990,Vivo Z1 Pro 4GB + 64 GB,6GB RAM,6.2 inch,16 MP Main,32 MP Front,Snapdragon 712,5000 mAh,Vivo,Qualcomm Snapdragon
+15990,Vivo Z1 Pro 64GB,4GB RAM,6.2 inch,16 MP Main,32 MP Front,Snapdragon 712,5000 mAh,Vivo,Qualcomm Snapdragon
+15990,Vivo Z1x 4GB 128GB,6GB RAM,6.2 inch,16 MP Main,32 MP Front,Snapdragon 712,5000 mAh,Vivo,Qualcomm Snapdragon
+15799,Vivo Z1x 6GB 128GB,4GB RAM,6.38 inch,48 MP Main,32 MP Front,Snapdragon 712,4500 mAh,Vivo,Qualcomm Snapdragon
+20990,Vivo Z1x 6GB 64GB,6GB RAM,6.38 inch,48 MP Main,32 MP Front,Snapdragon 712,4500 mAh,Vivo,Qualcomm Snapdragon
+19990,Xiaomi 12 Pro 5G,6GB RAM,6.38 inch,48 MP Main,32 MP Front,Qualcomm Snapdragon 8 Gen 1,4500 mAh,Vivo,Qualcomm Snapdragon
+54999,Xiaomi Black Shark 2 6GB ,8GB RAM,6.73 inch,50 MP Main,32 MP Front,Snapdragon 855,4600 mAh,Xiaomi,Qualcomm Snapdragon
+31999,Xiaomi Mi 10 8 GB 128 GB,6GB RAM,6.39 inch,48 MP Main,20 MP Front,Snapdragon 865,4013 mAh,Xiaomi,Qualcomm Snapdragon
+49999,Xiaomi Mi 10 8 GB 256 GB,8GB RAM,6.67 inch,108 MP Main,20 MP Front,Snapdragon 865,4780 mAh,Xiaomi,Qualcomm Snapdragon
+54999,Xiaomi Mi 10i 128GB ,8GB RAM,6.67 inch,108 MP Main,20 MP Front,Snapdragon 7505G,4780 mAh,Xiaomi,Qualcomm Snapdragon
+22690,Xiaomi Mi 12 Pro,6GB RAM,6.67 inch,108 MP Main,16 MP Front,Qualcomm Snapdragon 8 Gen 1,4820 mAh,Xiaomi,Qualcomm Snapdragon
+62999,Xiaomi Mi 6X,8GB RAM,6.73 inch,50 MP Main,32 MP Front,Snapdragon 660 ,4600 mAh,Xiaomi,Qualcomm Snapdragon
+23141,Xiaomi Mi A2,6GB RAM,5.99 inch,12 MP Main,20 MP Front,Snapdragon 660,3010 mAh,Xiaomi,Qualcomm Snapdragon
+11999,Xiaomi Mi A2 6GB ,4GB RAM,5.99 inch,20 MP Main,20 MP Front,Snapdragon 660,3010 mAh,Xiaomi,Qualcomm Snapdragon
+9890,Xiaomi Mi A2 Lite 3GB ,6GB RAM,5.99 inch,20 MP Main,20 MP Front,Snapdragon 660,3010 mAh,Xiaomi,Qualcomm Snapdragon
+11398,Xiaomi Mi A3 4GB ,3GB RAM,5.84 inch,12 MP Main,5 MP Front,Snapdragon 665,3080 mAh,Xiaomi,Qualcomm Snapdragon
+12495,Xiaomi Mi A3 6GB ,4GB RAM,6.08 inch,48 MP Main,32 MP Front,Snapdragon 665,4030 mAh,Xiaomi,Qualcomm Snapdragon
+17499,Xiaomi POCO F1 6GB + 128GB,6GB RAM,6.08 inch,48 MP Main,32 MP Front,Snapdragon 845,4030 mAh,Xiaomi,Qualcomm Snapdragon
+17800,Xiaomi POCO F1 6GB + 64GB,6GB RAM,6.18 inch,12 MP Main,20 MP Front,Snapdragon 845,4000 mAh,Xiaomi,Qualcomm Snapdragon
+12840,Xiaomi POCO F1 8GB + 256GB,6GB RAM,6.18 inch,12 MP Main,20 MP Front,Snapdragon 845,4000 mAh,Xiaomi,Qualcomm Snapdragon
+24990,Xiaomi POCO F1 Armoured Edition,8GB RAM,6.18 inch,12 MP Main,20 MP Front,Snapdragon 845,4000 mAh,Xiaomi,Qualcomm Snapdragon
+30999,Xiaomi POCO F1 Rosso Red edition,8GB RAM,6.18 inch,12 MP Main,20 MP Front,Snapdragon 845,4000 mAh,Xiaomi,Qualcomm Snapdragon
+21549,Xiaomi Poco M2 Pro 4 GB 64 GB,6GB RAM,6.18 inch,12 MP Main,20 MP Front,Snapdragon 720G,4000 mAh,Xiaomi,Qualcomm Snapdragon
+16999,Xiaomi Poco M2 Pro 6 GB 128 GB,4GB RAM,6.67 inch,48 MP Main,16 MP Front,Snapdragon 720G,5000 mAh,Xiaomi,Qualcomm Snapdragon
+16199,Xiaomi Poco M2 Pro 6 GB 64 GB,6GB RAM,6.67 inch,48 MP Main,16 MP Front,Snapdragon 720G,5000 mAh,Xiaomi,Qualcomm Snapdragon
+17999,Xiaomi Poco X2 6 GB 128GB,6GB RAM,6.67 inch,48 MP Main,16 MP Front,Snapdragon 730,5000 mAh,Xiaomi,Qualcomm Snapdragon
+18990,Xiaomi Poco X2 6 GB 64GB,6GB RAM,6.67 inch,64 MP Main,20 MP Front,Snapdragon 730,4500 mAh,Xiaomi,Qualcomm Snapdragon
+17999,Xiaomi Poco X2 8 GB 256GB,6GB RAM,6.67 inch,64 MP Main,20 MP Front,Snapdragon 730,4500 mAh,Xiaomi,Qualcomm Snapdragon
+20999,Xiaomi Redmi 10 2022,8GB RAM,6.67 inch,64 MP Main,20 MP Front,MediaTek MediaTek G88,4500 mAh,Xiaomi,MediaTek
+9990,Xiaomi Redmi 10 5G,4GB RAM,6.5 inch,50 MP Main,8 MP Front,MediaTek Dimensity 700,5000 mAh,Xiaomi,MediaTek
+15090,Xiaomi Redmi 10 Power,4GB RAM,6.58 inch,50 MP Main,5 MP Front,Qualcomm Snapdragon 680,5000 mAh,Xiaomi,Qualcomm Snapdragon
+11999,Xiaomi Redmi 10 Prime ,8GB RAM,6.71 inch,50 MP Main,5 MP Front,MediaTek MediaTek G88,6000 mAh,Xiaomi,MediaTek
+12470,Xiaomi Redmi 10 Prime 128GB ,4GB RAM,6.5 inch,50 MP Main,8 MP Front,MediaTek MediaTek G88,6000 mAh,Xiaomi,MediaTek
+12999,Xiaomi Redmi 6 3GB + 32GB,6GB RAM,6.5 inch,50 MP Main,8 MP Front,Qualcomm Snapdragon 710,6000 mAh,Xiaomi,Qualcomm Snapdragon
+8499,Xiaomi Redmi 6 64GB,3GB RAM,5.45 inch,12 MP Main,5 MP Front,Qualcomm Snapdragon 710,3000 mAh,Xiaomi,Qualcomm Snapdragon
+10499,Xiaomi Redmi 6 Pro 3GB + 32GB,3GB RAM,5.45 inch,12 MP Main,5 MP Front,Qualcomm Snapdragon 675,3000 mAh,Xiaomi,Qualcomm Snapdragon
+8500,Xiaomi Redmi 6 Pro 4GB + 64GB,3GB RAM,5.84 inch,12 MP Main,5 MP Front,Qualcomm Snapdragon 675,4000 mAh,Xiaomi,Qualcomm Snapdragon
+9390,Xiaomi Redmi 6A,4GB RAM,5.84 inch,12 MP Main,5 MP Front,MediaTek A22,4000 mAh,Xiaomi,MediaTek
+4995,Xiaomi Redmi 6A 32GB,2GB RAM,5.45 inch,13 MP Main,5 MP Front,MediaTek A22,3000 mAh,Xiaomi,MediaTek
+5599,Xiaomi Redmi 7 2GB,2GB RAM,5.45 inch,13 MP Main,5 MP Front,Qualcomm Snapdragon 632,3000 mAh,Xiaomi,Qualcomm Snapdragon
+6990,Xiaomi Redmi 7 3GB,2GB RAM,6.26 inch,12 MP Main,8 MP Front,Qualcomm Snapdragon 632,4012 mAh,Xiaomi,Qualcomm Snapdragon
+8799,Xiaomi Redmi 7A 2GB + 16GB,3GB RAM,6.26 inch,12 MP Main,8 MP Front,Snapdragon 439,4011 mAh,Xiaomi,Qualcomm Snapdragon
+6490,Xiaomi Redmi 7A 2GB + 32GB,2GB RAM,5.45 inch,12 MP Main,5 MP Front,Snapdragon 439,4004 mAh,Xiaomi,Qualcomm Snapdragon
+6500,Xiaomi Redmi 8 4GB ,2GB RAM,5.45 inch,12 MP Main,5 MP Front,Snapdragon 439,4005 mAh,Xiaomi,Qualcomm Snapdragon
+10749,Xiaomi Redmi 8A 2GB ,4GB RAM,6.22 inch,12 MP Main,8 MP Front,Snapdragon 439,5000 mAh,Xiaomi,Qualcomm Snapdragon
+7999,Xiaomi Redmi 8A 3GB ,2GB RAM,6.22 inch,12 MP Main,8 MP Front,Snapdragon 439,5000 mAh,Xiaomi,Qualcomm Snapdragon
+8999,Xiaomi Redmi 8A Dual 2 GB 32 GB,3GB RAM,6.22 inch,12 MP Main,8 MP Front,Snapdragon 439,5000 mAh,Xiaomi,Qualcomm Snapdragon
+7499,Xiaomi Redmi 8A Dual 3 GB 32 GB,2GB RAM,6.22 inch,13 MP Main,8 MP Front,Snapdragon 439,5000 mAh,Xiaomi,Qualcomm Snapdragon
+8999,Xiaomi Redmi 9 Power ,2GB RAM,6.22 inch,13 MP Main,8 MP Front,Snapdragon 665,5000 mAh,Xiaomi,Qualcomm Snapdragon
+12990,Xiaomi Redmi 9 Prime 4 GB 128 GB,4GB RAM,6.53 inch,48 MP Main,8 MP Front,MediaTek G80,6000 mAh,Xiaomi,MediaTek
+11990,Xiaomi Redmi 9 Prime 4 GB 64 GB,4GB RAM,6.53 inch,13 MP Main,8 MP Front,MediaTek G80,5020 mAh,Xiaomi,MediaTek
+10990,Xiaomi Redmi Go,4GB RAM,6.53 inch,13 MP Main,8 MP Front,Snapdragon 425,5020 mAh,Xiaomi,Qualcomm Snapdragon
+5999,Xiaomi Redmi K20 128GB,1GB RAM,5 inch,8 MP Main,5 MP Front,Snapdragon 730G,3000 mAh,Xiaomi,Qualcomm Snapdragon
+23990,Xiaomi Redmi K20 64GB,6GB RAM,6.39 inch,48 MP Main,20 MP Front,Snapdragon 730G,4002 mAh,Xiaomi,Qualcomm Snapdragon
+22999,Xiaomi Redmi K20 Pro 6GB ,6GB RAM,6.39 inch,48 MP Main,20 MP Front,Snapdragon 855,4000 mAh,Xiaomi,Qualcomm Snapdragon
+22990,Xiaomi Redmi K20 Pro 8GB ,6GB RAM,6.39 inch,48 MP Main,20 MP Front,Snapdragon 855,4001 mAh,Xiaomi,Qualcomm Snapdragon
+31999,Xiaomi Redmi K50i,8GB RAM,6.39 inch,48 MP Main,20 MP Front,MediaTek Dimensity 8100,4003 mAh,Xiaomi,MediaTek
+23999,Xiaomi Redmi Note 10S,6GB RAM,6.6 inch,64 MP Main,16 MP Front,MediaTek MediaTek G95,5080 mAh,Xiaomi,MediaTek
+14999,Xiaomi Redmi Note 11 Pro,6GB RAM,6.43 inch,64 MP Main,13 MP Front,MediaTek MediaTek G96,5000 mAh,Xiaomi,MediaTek
+17999,Xiaomi Redmi Note 11 Pro 5G,6GB RAM,6.67 inch,108 MP Main,16 MP Front,Qualcomm Snapdragon 695,5000 mAh,Xiaomi,Qualcomm Snapdragon
+24490,Xiaomi Redmi Note 11 Pro Plus 5G,6GB RAM,6.67 inch,108 MP Main,16 MP Front,Qualcomm Snapdragon 695,5000 mAh,Xiaomi,Qualcomm Snapdragon
+19999,Xiaomi Redmi Note 11 SE,6GB RAM,6.67 inch,108 MP Main,16 MP Front,MediaTek Dimensity 700,5000 mAh,Xiaomi,MediaTek
+11690,Xiaomi Redmi Note 11S 5G,4GB RAM,6.5 inch,48 MP Main,8 MP Front,MediaTek Dimensity 810,5000 mAh,Xiaomi,MediaTek
+18890,Xiaomi Redmi Note 11T 5G,4GB RAM,6.6 inch,50 MP Main,13 MP Front,MediaTek Dimensity 810 ,5000 mAh,Xiaomi,MediaTek
+16999,Xiaomi Redmi Note 11T Pro,6GB RAM,6.6 inch,50 MP Main,16 MP Front,MediaTek Dimensity 8100,5000 mAh,Xiaomi,MediaTek
+19790,Xiaomi Redmi Note 6 Pro 3GB ,6GB RAM,6.6 inch,64 MP Main,16 MP Front,Qualcomm Snapdragon 636,4400 mAh,Xiaomi,Qualcomm Snapdragon
+9499,Xiaomi Redmi Note 6 Pro 4GB ,3GB RAM,6.26 inch,12 MP Main,20 MP Front,Qualcomm Snapdragon 636,4000 mAh,Xiaomi,Qualcomm Snapdragon
+12049,Xiaomi Redmi Note 6 Pro 6GB ,4GB RAM,6.26 inch,12 MP Main,20 MP Front,Qualcomm Snapdragon 636,4000 mAh,Xiaomi,Qualcomm Snapdragon
+17999,Xiaomi Redmi Note 7 3GB + 32GB,6GB RAM,6.26 inch,12 MP Main,20 MP Front,Snapdragon 660,4000 mAh,Xiaomi,Qualcomm Snapdragon
+12500,Xiaomi Redmi Note 7 4GB + 64GB,3GB RAM,6.3 inch,12 MP Main,13 MP Front,Snapdragon 660,4016 mAh,Xiaomi,Qualcomm Snapdragon
+12999,Xiaomi Redmi Note 7 Pro 4GB + 64GB,4GB RAM,6.3 inch,12 MP Main,13 MP Front,Qualcomm Snapdragon 675,4014 mAh,Xiaomi,Qualcomm Snapdragon
+13490,Xiaomi Redmi Note 7 Pro 6GB + 128GB,4GB RAM,6.3 inch,48 MP Main,13 MP Front,Qualcomm Snapdragon 675,4015 mAh,Xiaomi,Qualcomm Snapdragon
+15499,Xiaomi Redmi Note 7 Pro 6GB + 64GB,6GB RAM,6.3 inch,48 MP Main,13 MP Front,Qualcomm Snapdragon 675,4000 mAh,Xiaomi,Qualcomm Snapdragon
+16999,Xiaomi Redmi Note 7S 3GB ,6GB RAM,6.3 inch,48 MP Main,13 MP Front,Snapdragon 730,4006 mAh,Xiaomi,Qualcomm Snapdragon
+9999,Xiaomi Redmi Note 7S 4GB ,3GB RAM,6.3 inch,48 MP Main,13 MP Front,Snapdragon 730,4007 mAh,Xiaomi,Qualcomm Snapdragon
+11999,Xiaomi Redmi Note 8 3 GB 32 GB,4GB RAM,6.3 inch,48 MP Main,13 MP Front,Snapdragon 665,4008 mAh,Xiaomi,Qualcomm Snapdragon
+11450,Xiaomi Redmi Note 8 4 GB 64 GB,3GB RAM,6.3 inch,48 MP Main,13 MP Front,Snapdragon 665,4000 mAh,Xiaomi,Qualcomm Snapdragon
+12499,Xiaomi Redmi Note 8 6 GB 128 GB,4GB RAM,6.3 inch,48 MP Main,13 MP Front,Snapdragon 665,4000 mAh,Xiaomi,Qualcomm Snapdragon
+15999,Xiaomi Redmi Note 8 Pro 6GB 128GB,6GB RAM,6.3 inch,48 MP Main,13 MP Front,MediaTek G90T,4000 mAh,Xiaomi,MediaTek
+16999,Xiaomi Redmi Note 8 Pro 8GB 128GB,6GB RAM,6.53 inch,64 MP Main,20 MP Front,MediaTek G90T,4500 mAh,Xiaomi,MediaTek
+16999,Xiaomi Redmi Note 9 4GB 128 GB,8GB RAM,6.53 inch,64 MP Main,20 MP Front,MediaTek G85,4500 mAh,Xiaomi,MediaTek
+14990,Xiaomi Redmi Note 9 4GB 64 GB,4GB RAM,6.53 inch,48 MP Main,13 MP Front,MediaTek G85,5020 mAh,Xiaomi,MediaTek
+14740,Xiaomi Redmi Note 9 6GB 128 GB,4GB RAM,6.53 inch,48 MP Main,13 MP Front,MediaTek G85,5020 mAh,Xiaomi,MediaTek
+14490,Xiaomi Redmi Y3 3GB + 32GB,6GB RAM,6.53 inch,48 MP Main,13 MP Front,Qualcomm Snapdragon 632,5020 mAh,Xiaomi,Qualcomm Snapdragon
+8999,Xiaomi Redmi Y3 4GB + 64GB,3GB RAM,6.26 inch,12 MP Main,32 MP Front,Qualcomm Snapdragon 632,4010 mAh,Xiaomi,Qualcomm Snapdragon

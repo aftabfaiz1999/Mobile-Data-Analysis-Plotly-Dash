@@ -9,6 +9,7 @@ import pandas as pd
 import plotly.express as px
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+server = app.server
 
 df = pd.read_csv('clean_data.csv')
 Pro_cam=df['Product Company'].value_counts()
